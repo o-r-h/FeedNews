@@ -1,0 +1,5 @@
+.env
+ai_news.json
+result_*.json
+__pycache__
+/news-env
